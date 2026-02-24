@@ -1,6 +1,6 @@
 ~ Hola, I'm Aiden Lorenzo🤠
 
-~ I am a cybersecurity student who is insipired to become a SOC analyst💻
+~ I am a cybersecurity student💻
 <!--
 **Aiden-Lorenzo/Aiden-Lorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
